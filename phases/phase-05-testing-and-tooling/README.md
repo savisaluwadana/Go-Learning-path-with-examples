@@ -5,6 +5,12 @@
 - Use benchmarks for performance checks
 - Apply standard Go tooling
 
+## Theory: Documentation Chapters
+- Tutorial chapter "Add a test": https://go.dev/doc/tutorial/add-a-test
+- Tutorial chapter "Fuzzing": https://go.dev/doc/tutorial/fuzz
+- Package docs `testing`: https://pkg.go.dev/testing
+- Tool docs `go test`, `go vet`, and `gofmt`: https://pkg.go.dev/cmd/go, https://pkg.go.dev/cmd/vet, https://pkg.go.dev/cmd/gofmt
+
 ## Checklist
 - Add table-driven tests for all packages
 - Add one benchmark per core package
@@ -12,4 +18,3 @@
 
 ## Done When
 - New features ship with tests by default
-

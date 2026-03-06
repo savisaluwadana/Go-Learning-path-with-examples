@@ -18,6 +18,7 @@ This roadmap takes you from absolute beginner to building production-ready Go se
 ## Repository Structure
 
 - `phases/`: phase-by-phase checklists and outcomes
+- `phases/*/README.md`: each phase includes a `Theory: Documentation Chapters` section
 - `projects/phase-01-unit-converter`: runnable CLI mini project
 - `projects/phase-02-contact-manager`: runnable CLI mini project
 
