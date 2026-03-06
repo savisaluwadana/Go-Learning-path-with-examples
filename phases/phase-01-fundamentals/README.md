@@ -16,5 +16,11 @@
 - Implement string reverse function
 - Complete mini project: unit converter
 
+## Extra Practice Projects
+- Quiz game CLI with score and timer
+- Palindrome and anagram checker tool
+- Basic payroll calculator with overtime rules
+- Roman numeral to integer converter
+
 ## Done When
 - You can model basic logic confidently in Go

@@ -280,6 +280,62 @@ Build at least 2 end-to-end projects:
    - Retry with backoff
    - Dead-letter handling
 
+## Practice Project Ladder (Beginner to Advanced)
+
+Choose at least 2 projects from each level.
+
+### Beginner Projects (Phases 0-2)
+
+- CLI calculator with operation history
+- Number guessing game with difficulty levels
+- Password strength checker
+- File extension counter (`.txt`, `.go`, `.md`)
+- CSV student marks analyzer
+- Unit converter (temperature/distance/weight)
+- Contact manager CLI (in-memory CRUD)
+- Flashcard quiz CLI
+- Expense tracker CLI (in-memory)
+- Simple markdown word counter
+
+### Intermediate Projects (Phases 3-5)
+
+- File analyzer with pluggable output formatters via interfaces
+- Retryable HTTP fetcher with custom error types
+- Log aggregator with console and file logger backends
+- Concurrent image metadata scanner
+- Worker pool job runner with timeout support
+- URL health checker with concurrency and summary report
+- CLI backup tool with gzip option
+- Table-driven test suite for a reusable utility package
+- Benchmark project for string/token parsing approaches
+- Mini package library (`mathutil`, `strutil`, `dateutil`) with tests
+
+### Upper-Intermediate Projects (Phases 6-8)
+
+- REST client CLI with pagination and filters
+- Todo REST API with layered architecture
+- URL shortener API (in-memory, then PostgreSQL)
+- Notes API with tags/search and validation
+- Expense tracker backend with PostgreSQL transactions
+- Inventory service with low-stock alerts
+- Authentication service with JWT and refresh tokens
+- API rate limiter middleware
+- Blog backend with comments and soft delete
+- Event booking service with transactional seat reservation
+
+### Advanced Projects (Phases 9-10)
+
+- Production-ready user service with health/readiness endpoints
+- Realtime chat server with WebSockets and room management
+- Job queue processor with retries and dead-letter queue
+- E-commerce backend with orders and payment state machine
+- API gateway with auth, rate limit, and request tracing
+- Distributed scheduler for periodic jobs
+- Multi-tenant SaaS backend with tenant isolation
+- Notification service (email/SMS/push) with worker consumers
+- Observability-focused microservice (logs, metrics, traces)
+- Deployable service template with Docker + CI + release tagging
+
 ## Daily Practice Checklist
 
 - Read 10-20 pages from Go docs/book

@@ -16,5 +16,11 @@
 - Add structured logs and request IDs
 - Add startup/shutdown signal handling
 
+## Extra Practice Projects
+- User profile service with clean architecture layers
+- Billing microservice with idempotent operations
+- Internal admin API with audit logging and role checks
+- Event ingestion service with retries and observability
+
 ## Done When
 - Service behavior is observable and safe in production

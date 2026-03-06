@@ -16,5 +16,11 @@
 - Build todo list using struct slices
 - Complete mini project: contact manager
 
+## Extra Practice Projects
+- Library manager CLI (books, members, borrow/return)
+- Simple inventory tracker (items, quantities, reorder threshold)
+- Movie catalog manager with search and filtering
+- Habit tracker CLI with daily streak logic
+
 ## Done When
 - You can represent data with clear struct designs

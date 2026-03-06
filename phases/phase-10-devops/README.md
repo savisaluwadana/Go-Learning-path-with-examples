@@ -16,5 +16,11 @@
 - Add CI workflow for test + build
 - Deploy and verify health endpoint
 
+## Extra Practice Projects
+- Dockerized API template with Makefile and health checks
+- CI pipeline project with lint/test/build/release stages
+- Blue-green deployment demo for a Go HTTP service
+- End-to-end service deployment with alerts and rollback plan
+
 ## Done When
 - You can ship a repeatable build artifact and deploy confidently

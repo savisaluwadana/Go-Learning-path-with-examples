@@ -18,5 +18,10 @@
 - Create `hello.go` and run `go run hello.go`
 - Run `go fmt ./...`
 
+## Extra Practice Projects
+- "Go Environment Checker" CLI that prints OS, Go version, GOPATH, and module mode
+- "Command Cheatsheet" CLI that prints common Go commands from a local text file
+- "Project Bootstrapper" script that creates a starter Go module with folders and README
+
 ## Done When
 - You can create a new Go file and run it successfully

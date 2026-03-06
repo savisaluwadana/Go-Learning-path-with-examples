@@ -16,5 +16,11 @@
 - Build concurrent URL checker
 - Detect race conditions with `go test -race ./...`
 
+## Extra Practice Projects
+- Parallel directory size calculator
+- Concurrent log line counter across many files
+- Batch thumbnail metadata scanner with worker pool
+- Cancellable web scraper with context timeout
+
 ## Done When
 - You can explain and prevent common race/deadlock cases

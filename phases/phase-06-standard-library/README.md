@@ -16,5 +16,11 @@
 - Build retryable HTTP client wrapper
 - Use `flag` package for CLI input
 
+## Extra Practice Projects
+- API data fetcher CLI with retry and timeout flags
+- JSON to CSV converter with stream processing
+- Local file sync utility with ignore patterns
+- Simple RSS reader using `net/http` and `encoding/xml`
+
 ## Done When
 - You can solve most tasks without third-party dependencies

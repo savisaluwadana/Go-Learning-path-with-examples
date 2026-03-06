@@ -17,5 +17,11 @@
 - Implement repository methods
 - Add migration files and rollback path
 
+## Extra Practice Projects
+- Expense tracker API with monthly summary queries
+- Course enrollment backend with transactional seat booking
+- Warehouse stock service with audit table and rollbacks
+- Support ticket backend with status history and indexing
+
 ## Done When
 - Data writes are transactional and constraints are enforced

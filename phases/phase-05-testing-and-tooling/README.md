@@ -16,5 +16,11 @@
 - Add one benchmark per core package
 - Run `go test ./...`, `go vet ./...`, `go fmt ./...`
 
+## Extra Practice Projects
+- Refactor a CLI app to dependency-injected design for easier testing
+- Build a package with table-driven, fuzz, and benchmark tests
+- Snapshot testing helper for stable text output
+- Test report summarizer CLI that parses `go test` output
+
 ## Done When
 - New features ship with tests by default

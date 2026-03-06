@@ -16,5 +16,11 @@
 - Add a utility package with tests
 - Use `defer` for cleanup paths
 
+## Extra Practice Projects
+- Multi-output logger (console, file, JSON) via interfaces
+- Data importer that supports CSV and JSON readers
+- Payment processor simulation with multiple gateway implementations
+- Resilient file parser with custom typed errors and retry behavior
+
 ## Done When
 - Your code handles failure cases explicitly and predictably
